@@ -1,4 +1,4 @@
-React exchange rates
+# React exchange rates
 
 # Setup
 Both folders contain example.env files. Edit them and rename them to .env
